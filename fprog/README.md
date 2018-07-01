@@ -1,1 +1,1 @@
-Assignments of lecture Functional Programing 185.A03
+Assignments of lecture Funnktionale Programmierung 185.A03 (Functional Programing)

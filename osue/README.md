@@ -1,1 +1,1 @@
-Projects for lecture Operating Systems 182.709 
+Projects for lecture Betriebssysteme 182.709 (Operating Systems)
