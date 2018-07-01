@@ -1,0 +1,15 @@
+5c5
+< 	char input[101];
+---
+> 	char *input = malloc(101);
+9a10,19
+> 	}
+> 	for (; *input != '\0'; ++input) {
+> 		switch (*input) {
+> 			case '|': case '&':
+> 			case '<': case '>':
+> 			case '!': case '`':
+> 			case ';': case '$':
+> 				*input = ' ';
+> 				break;
+> 		}
